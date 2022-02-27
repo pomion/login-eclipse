@@ -23,12 +23,4 @@
 hs_err_pid*
 /.metadata/
 
-
-
-*.bin/
-*.obj/
-*.vs/
-
-bin/
-obj/
-vs/
+ 
